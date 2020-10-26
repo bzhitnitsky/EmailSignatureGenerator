@@ -6,11 +6,11 @@ Created as part of automating macOS system imaging processes for a client, but c
 
 Use the included AppleScript to import the HTML file into Microsoft Outlook for Mac 2016+ automatically.
 
-**Prompt 1:
+
 <img src="https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/prompt1.png" width="700">
 
-**Prompt 2:
+
 <img src="https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/prompt2.png" width="700">
 
-**Output:
+
 <img src="https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/output.png" width="700">
