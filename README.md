@@ -10,10 +10,9 @@ Use the included AppleScript to import the HTML file into Microsoft Outlook for 
 
 ![Prompt 1](https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/prompt1.png)
 
-+
+<img src="https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/prompt1.png" width="300">
+
 
 ![Prompt 2](https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/prompt2.png)
-
-=
 
 ![Output](https://raw.githubusercontent.com/bzhitnitsky/EmailSignatureGenerator/main/output.png)
